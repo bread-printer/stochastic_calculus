@@ -7,7 +7,7 @@
 Usually used to explain the movement of stochastic/random objects like pollen in the wind, atomic particles in water, or market prices.
 
 **Brownian Motion** (denoted as _W(t)_ or _B(t)_) has the following charasteristics:
-- Increments are continous ( $\lim_{x\to\ a} f(x)$ = f(a) ) where a,x \in ℚ ≥ 0
+- Increments are continous ( $\lim_{x\to\ a} f(x)$ = f(a) ) where a,x $\in$ ℚ ≥ 0
 - Increments of a particle over disjoint time are independent of one another
 - Each increment is assumed to be bombarded by a large number of independent collisions, hence with many random collisions, this approaches a normal distribution of increments by the [Central Limit Theorem] (https://www.statisticshowto.com/probability-and-statistics/normal-distributions/central-limit-theorem-definition-examples/)
 
